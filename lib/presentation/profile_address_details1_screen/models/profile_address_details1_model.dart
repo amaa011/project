@@ -1,0 +1,1 @@
+class ProfileAddressDetails1Model {}
